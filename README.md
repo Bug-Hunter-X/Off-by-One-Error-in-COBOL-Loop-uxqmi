@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL. The bug.cob file contains the erroneous code, while bugSolution.cob provides the corrected version.  The error arises from an incorrect loop condition in a PERFORM statement leading to an inaccurate loop iteration count.
